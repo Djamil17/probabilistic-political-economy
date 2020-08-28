@@ -1,4 +1,4 @@
-Income Inequality Simulation
+#Income Inequality Simulation
 
 import random
 import numpy as np
